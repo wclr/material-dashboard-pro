@@ -182,7 +182,7 @@ $().ready(function(){
         api.openPopup('twitter');
       },
       template: '<i class="fa fa-twitter"></i> &middot; 45',
-      url: 'http://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html'
+      url: '//demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html'
     });
 
     $('#facebook').sharrre({
@@ -196,7 +196,7 @@ $().ready(function(){
         api.openPopup('facebook');
       },
       template: '<i class="fa fa-facebook-square"></i> &middot; 50',
-      url: 'http://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html'
+      url: '//demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html'
     });
 
 
@@ -857,7 +857,7 @@ demo = {
                 confirmButtonClass: "btn btn-success",
                 html:
                         'You can use <b>bold text</b>, ' +
-                        '<a href="http://github.com">links</a> ' +
+                        '<a href="//github.com">links</a> ' +
                         'and other HTML tags'
                 });
 
@@ -1135,14 +1135,14 @@ demo = {
 					title: 'Click for Creative Tim',
 					start: new Date(y, m, 21),
 					end: new Date(y, m, 22),
-					url: 'http://www.creative-tim.com/',
+					url: '//www.creative-tim.com/',
 					className: 'event-orange'
 				},
 				{
 					title: 'Click for Google',
 					start: new Date(y, m, 21),
 					end: new Date(y, m, 22),
-					url: 'http://www.creative-tim.com/',
+					url: '//www.creative-tim.com/',
 					className: 'event-orange'
 				}
 			]
